@@ -28,7 +28,7 @@
 </p>
 
 
-<p align="left" width="100"><img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=naveen723658&show_icons=true&locale=en&theme=transparent" alt="naveen723658" /> <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen723658&show_icons=true&locale=en&layout=compact&theme=transparent" alt="naveen723658" /></p>
+<p align="left" width="100"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=naveen723658&show_icons=true&locale=en&theme=transparent" alt="naveen723658" /> <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen723658&show_icons=true&locale=en&layout=compact&theme=transparent" alt="naveen723658" /></p>
 
 
 
