@@ -24,11 +24,11 @@
 
 
 <p align="center" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen723658&show_icons=true&locale=en&theme=transparent" alt="naveen723658" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen723658&show_icons=true&locale=en&theme=dracula" alt="naveen723658" /> 
 </p>
 
 
-<p align="left" width="100"> <img align="left" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen723658&theme=transparent" alt="naveen723658" /> <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen723658&show_icons=true&locale=en&layout=compact&theme=transparent" alt="naveen723658" /></p>
+<p align="left" width="100"> <img align="left" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen723658&theme=dracula" alt="naveen723658" /> <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen723658&show_icons=true&locale=en&layout=compact&theme=dracula" alt="naveen723658" /></p>
 
 
 
