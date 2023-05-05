@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [VIPS-Website](https://github.com/VipsProject/VIPS-Website.git)
 
+- 🌱 I’m currently learning Node js
+
 - 📫 How to reach me **naveen.kumar723658@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
