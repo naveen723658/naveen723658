@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen723658&label=Profile%20views&color=0e75b6&style=flat" alt="naveen723658" /> </p>
 
-- 🔭 I’m currently working on [VIPS-Website](https://github.com/VipsProject/VIPS-Website.git)
+- 🔭 I’m currently working on [Printweb](https://github.com/naveen723658/Printweb.git)
 
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently learning AI & ML
 
 - 📫 How to reach me **naveen.kumar723658@gmail.com**
 
